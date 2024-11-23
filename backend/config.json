@@ -1,0 +1,12 @@
+{
+    "page1": {
+        "active": false,
+        "strategy": null,
+        "params": {}
+    },
+    "page2": {
+        "active": false,
+        "strategy": null,
+        "params": {}
+    }
+}
